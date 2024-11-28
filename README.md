@@ -1,16 +1,50 @@
-# shop
+# اپ فروشگاهی محصولات اپل 
+ یک اپلیکیشن فروشگاهی مدرن است که برای نمایش، جستجو و خرید محصولات مرتبط با برند اپل طراحی شده است. این پروژه با هدف ایجاد یک تجربه خرید آنلاین ساده، سریع و زیبا توسعه داده شده است. کاربران می‌توانند محصولات را مرور کنند، به سبد خرید اضافه کنند و از امکانات دیگر این اپلیکیشن بهره‌مند شوند.
 
-A new Flutter project.
+# ویژگی ها 
 
-## Getting Started
+  - نمایش لیست محصولات: مشاهده لیست کاملی از محصولات اپل با جزئیات و تصاویر.
+  - کامنت: ارسال نظرات کاربران برای هر محصول.
+  - مشاهده جزئیات محصول: نمایش مشخصات کامل هر محصول از جمله تصاویر، توضیحات و قیمت.
+  - سبد خرید: امکان اضافه کردن محصولات به سبد خرید و مشاهده مجموع قیمت.
+  - مدیریت علاقه‌مندی‌ها: افزودن محصولات به لیست علاقه‌مندی‌ها.
+  - مدیریت حساب کاربری: ورود و ثبت نام کاربران .
+  - طراحی ریسپانسیو: تجربه کاربری مناسب برای دستگاه‌های مختلف.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## تکنولوژی‌ها و ابزارهای استفاده شده
+- **Flutter**: فریمورک اصلی برای توسعه اپلیکیشن
+- **Dart**: زبان برنامه‌نویسی استفاده شده
+- **BLoC (Business Logic Component)**: برای مدیریت وضعیت اپلیکیشن
+- **REST API**: برای ارتباط با سرور و مدیریت داده‌ها
+- **GetIt**: برای تزریق وابستگی‌ها
+- **Hive**: برای ذخیره‌سازی داده‌های محلی در دستگاه
+- **Pocket Base**: برای مدیریت ورود و ثبت‌نام کاربران
+- **Flutter Form Validation**: برای اعتبارسنجی فرم‌ها
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+# تصاویر اپلیکیشن
+
+| ![صفحه اصلی](https://github.com/javadHeidary/ecommerce_project_apple_shope/blob/main/assets/images/all-screen.png) |  
+## نقشه راه پروژه
+- **اضافه شدن سرچ دقیق اگهی ها**
+- **نمایش آگهی‌های پیشنهادی.**
+- **پرداخت آنلاین**
+- **علاقه مندی ها**
+  
+
+### مشارکت
+برای ارسال نظر پیشنهاد یا انتقاد از راهای زیر تماس بگیرید.
+
+**لینک تماس**: 
+
+[ایمیل من](mailto:javadHeidary.dev@gmail.com) 
+
+[تلگرام من](https://t.me/JavadHeiDev)
+
+**لینک پروژه**: [Apple Shop](https://github.com/javadHeidary/ecommerce_project_apple_shope)
+
+---
+
+✨ **از شما برای بازدید از این پروژه مچکرم !** ✨
